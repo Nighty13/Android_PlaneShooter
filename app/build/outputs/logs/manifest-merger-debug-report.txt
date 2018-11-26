@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\be765e90a68b62cddb3b742a09d15de7\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3966c17765d45b1871e2d4beef033b87\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\edd404eb0383f1be0c6005f5deb308ec\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\f424d5c9eab87bc06fd75de7f7c172a2\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\18fc736cb82300daa81c0df7926bb0ba\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\073084aa1bc55c610b7f057f6dd0a72a\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\05cb55fcee999816af8e71e30cf88190\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\df52c6c94bd50b244c5bf72c9b2f2a0e\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\bdb31f07db23e726a4881c68d69a152e\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\112b5fb361755efbbd41435c5f9df4bb\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\0cd1d9e7d5afb1307108043cde0962ec\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\c78753af0e51c6115c42934a7b68dac8\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\fce027b3a38f9f2c308349d91e574ab9\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\276f05e91f0b15fb3fbece360548099f\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\34ec4f85c7906a1c4672cf605020af68\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\b52412228517141662ce551c8aa24580\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\ef44ebee257693977d6191bf6a0cbd2f\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\77b3f7f5891cc2a28ae3bf00033def3e\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\30a57a2321cf2d615549c8fb43f16c3d\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\dea45b2c4565bc99a728847fc75ffc4a\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\34b860f542a45aa0949a0b49912894a2\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f3414923679b37ad7d47979fcf11b46f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8d4a0948514c0cb24b7380168f8cb3ad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c9b9f56f695d6151fbb8f6d2e1a3c0ab\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2693c97505b362310704f090dff789a4\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:5:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3966c17765d45b1871e2d4beef033b87\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3966c17765d45b1871e2d4beef033b87\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.asus.plane_shooter.MainActivity
+ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:15:13-49
+	android:configChanges
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.asus.plane_shooter.StartGame
+ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:22:9-25:61
+	android:screenOrientation
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:25:13-49
+	android:configChanges
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:24:13-63
+	android:name
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:23:13-38
+activity#com.example.asus.plane_shooter.GameOver
+ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:26:9-29:61
+	android:screenOrientation
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:29:13-49
+	android:configChanges
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:28:13-63
+	android:name
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml:27:13-37
+uses-sdk
+INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\be765e90a68b62cddb3b742a09d15de7\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\be765e90a68b62cddb3b742a09d15de7\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3966c17765d45b1871e2d4beef033b87\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\3966c17765d45b1871e2d4beef033b87\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\edd404eb0383f1be0c6005f5deb308ec\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\edd404eb0383f1be0c6005f5deb308ec\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\f424d5c9eab87bc06fd75de7f7c172a2\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\f424d5c9eab87bc06fd75de7f7c172a2\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\18fc736cb82300daa81c0df7926bb0ba\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\18fc736cb82300daa81c0df7926bb0ba\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\073084aa1bc55c610b7f057f6dd0a72a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\073084aa1bc55c610b7f057f6dd0a72a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\05cb55fcee999816af8e71e30cf88190\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\05cb55fcee999816af8e71e30cf88190\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\df52c6c94bd50b244c5bf72c9b2f2a0e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\df52c6c94bd50b244c5bf72c9b2f2a0e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\bdb31f07db23e726a4881c68d69a152e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\bdb31f07db23e726a4881c68d69a152e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\112b5fb361755efbbd41435c5f9df4bb\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\112b5fb361755efbbd41435c5f9df4bb\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\0cd1d9e7d5afb1307108043cde0962ec\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\0cd1d9e7d5afb1307108043cde0962ec\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\c78753af0e51c6115c42934a7b68dac8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\c78753af0e51c6115c42934a7b68dac8\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\fce027b3a38f9f2c308349d91e574ab9\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\fce027b3a38f9f2c308349d91e574ab9\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\276f05e91f0b15fb3fbece360548099f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\276f05e91f0b15fb3fbece360548099f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\34ec4f85c7906a1c4672cf605020af68\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\34ec4f85c7906a1c4672cf605020af68\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\b52412228517141662ce551c8aa24580\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\b52412228517141662ce551c8aa24580\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\ef44ebee257693977d6191bf6a0cbd2f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\ef44ebee257693977d6191bf6a0cbd2f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\77b3f7f5891cc2a28ae3bf00033def3e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\77b3f7f5891cc2a28ae3bf00033def3e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\30a57a2321cf2d615549c8fb43f16c3d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\30a57a2321cf2d615549c8fb43f16c3d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\dea45b2c4565bc99a728847fc75ffc4a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\dea45b2c4565bc99a728847fc75ffc4a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\34b860f542a45aa0949a0b49912894a2\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\34b860f542a45aa0949a0b49912894a2\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f3414923679b37ad7d47979fcf11b46f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f3414923679b37ad7d47979fcf11b46f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8d4a0948514c0cb24b7380168f8cb3ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8d4a0948514c0cb24b7380168f8cb3ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c9b9f56f695d6151fbb8f6d2e1a3c0ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c9b9f56f695d6151fbb8f6d2e1a3c0ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2693c97505b362310704f090dff789a4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2693c97505b362310704f090dff789a4\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\Desktop\Plane_Shooter\app\src\main\AndroidManifest.xml
